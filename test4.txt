@@ -3,3 +3,5 @@ test 4 file
 my first edit
 
 cloning is done
+
+edit 2
